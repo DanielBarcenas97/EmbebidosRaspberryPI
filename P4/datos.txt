@@ -1,0 +1,5 @@
+Temperatura=21.0C Humedad = 66.000000% 
+Temperatura=21.0C Humedad = 68.000000% 
+Temperatura=21.0C Humedad = 66.000000% 
+Temperatura=21.0C Humedad = 66.000000% 
+Temperatura=21.0C Humedad = 66.000000% 
